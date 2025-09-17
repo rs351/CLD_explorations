@@ -1,0 +1,3 @@
+Run command:
+
+python3 game_of_life.py --glider-gun --hybrid-bc --click --interval 50
